@@ -1,0 +1,1 @@
+lệnh chạy tự động: ts-node-dev --respawn --transpile-only index.ts
